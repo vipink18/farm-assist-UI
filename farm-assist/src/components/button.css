@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+
+ .alink{
+    display: block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+    word-spacing: 2px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #122C0D;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    position: relative;
+    transition: all .35s ease-in-out;
+    cursor: pointer;
+  }
+  
+  
+  .alink:hover{
+    color: #122C0D;
+    background-color: #ffffff;
+  }
+  
