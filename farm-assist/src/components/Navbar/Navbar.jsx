@@ -14,8 +14,8 @@ const Navbar = () => {
             
             <div className=' signup-links btn'>
               <Button value="Admin" href="/admin"/>
-              <Button value="Farmer" href="login" />
-              <Button value="Supplier" href="login" />
+              <Button value="Farmer" href="/farmer" />
+              <Button value="Supplier" href="supplier" />
             </div>
             
         </div>
